@@ -1,0 +1,4 @@
+repository "ChessProject@c-z-x@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

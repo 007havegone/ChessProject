@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GameManager
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 341ca05a08ec6554984e6bde72384cc7,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: chessPeople
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: currentLevel
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: chessMove
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameOver
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gridGo
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: sprites.Array.size
+    value: 14
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: sprites.Array.data[0]
+    value: 
+    objectReference: {fileID: 5811428255238166089, guid: 1b142012a72db0d41a9f63afbeccb5c8,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: sprites.Array.data[1]
+    value: 
+    objectReference: {fileID: 8208463700695415929, guid: 1b142012a72db0d41a9f63afbeccb5c8,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: sprites.Array.data[2]
+    value: 
+    objectReference: {fileID: -4305688682118827182, guid: 1b142012a72db0d41a9f63afbeccb5c8,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: sprites.Array.data[3]
+    value: 
+    objectReference: {fileID: -7030418775387871526, guid: 1b142012a72db0d41a9f63afbeccb5c8,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: sprites.Array.data[4]
+    value: 
+    objectReference: {fileID: -5364483670046738349, guid: 1b142012a72db0d41a9f63afbeccb5c8,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: sprites.Array.data[5]
+    value: 
+    objectReference: {fileID: 7001890414487489548, guid: 1b142012a72db0d41a9f63afbeccb5c8,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: sprites.Array.data[6]
+    value: 
+    objectReference: {fileID: 5757015972445583890, guid: 1b142012a72db0d41a9f63afbeccb5c8,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: sprites.Array.data[7]
+    value: 
+    objectReference: {fileID: -1685121665534006670, guid: 1b142012a72db0d41a9f63afbeccb5c8,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: sprites.Array.data[8]
+    value: 
+    objectReference: {fileID: 4917146547986482723, guid: 1b142012a72db0d41a9f63afbeccb5c8,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: sprites.Array.data[9]
+    value: 
+    objectReference: {fileID: 2469617655172964495, guid: 1b142012a72db0d41a9f63afbeccb5c8,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: sprites.Array.data[10]
+    value: 
+    objectReference: {fileID: 6329528546198805923, guid: 1b142012a72db0d41a9f63afbeccb5c8,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: sprites.Array.data[11]
+    value: 
+    objectReference: {fileID: -4421537415268300880, guid: 1b142012a72db0d41a9f63afbeccb5c8,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: sprites.Array.data[12]
+    value: 
+    objectReference: {fileID: 5990137787314087296, guid: 1b142012a72db0d41a9f63afbeccb5c8,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: sprites.Array.data[13]
+    value: 
+    objectReference: {fileID: -4571163476042915545, guid: 1b142012a72db0d41a9f63afbeccb5c8,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: chessGo
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: canMovePosUIGo
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: boardGo
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: boardGos.Array.size
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: boardGos.Array.data[0]
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: boardGos.Array.data[1]
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: lastChessOrGrid
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: eatChessPool
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: clickChessUIGo
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: lastPosUIGo
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: canEatPosUIGo
+    value: 
+    objectReference: {fileID: 0}
